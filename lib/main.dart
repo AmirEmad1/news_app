@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-// ahmed
+// ahmed , menna
 void main() {
   runApp(const NewsApp());
 }
